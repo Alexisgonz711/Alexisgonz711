@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Daily Mood](http://www.daily-mood.xyz/)
 
-- 🌱 I’m currently learning **Javascript, Ruby on rails**
+- 🌱 I’m currently learning **Javascript, React**
 
 - 📫 How to reach me **alexgonz07@icloud.com**
 
