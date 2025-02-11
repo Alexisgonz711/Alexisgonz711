@@ -3,8 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexisgonz711" alt="alexisgonz711" /></a> </p>
 
-- 🔭 I’m currently working on [Daily Mood](http://www.daily-mood.xyz/)
-
+<!--  - 🔭 I’m currently working on [Daily Mood](http://www.daily-mood.xyz/) -->
 - 🌱 I’m currently learning **Javascript, React**
 
 - 📫 How to reach me **alexgonz07@icloud.com**
